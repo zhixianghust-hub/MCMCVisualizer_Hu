@@ -1,0 +1,5 @@
+{
+  "name": "MCMC Visualizer",
+  "description": "An interactive educational tool to visualize and understand Markov Chain Monte Carlo algorithms (MH, Gibbs, HMC, NUTS) on a 2D Gaussian Mixture Model.",
+  "requestFramePermissions": []
+}
